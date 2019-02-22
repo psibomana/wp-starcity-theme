@@ -4,7 +4,6 @@ This repository was created for a theme development
 
 ## Installation
 
-If you don’t have Docker and Docker Compose installed follow the steps outlined in the blog post linked above.
 
 With Docker installed and running, in Terminal:
 
@@ -23,5 +22,3 @@ Then in your browser:
 ````
 http://localhost:8040/
 ````
-
-The aforementioned blog post has more information.
