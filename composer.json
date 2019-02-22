@@ -1,4 +1,5 @@
 {
   "name": "psibomana/wp-starcity-theme",
-  "homepage": "https://github.com/psibomana/wp-starcity-theme"
+  "homepage": "https://github.com/psibomana/wp-starcity-theme",
+  "type": "wordpress-theme"
 }
