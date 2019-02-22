@@ -1,0 +1,1 @@
+# wp-starcity-theme
