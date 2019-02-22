@@ -1,0 +1,17 @@
+.DS_Store
+
+# Ignore all themes and plugins
+wp-content/*/
+
+# Except for the wpstarcitythem
+!wp-content/
+!wp-content/*/
+!wp-content/*/themes/
+!wp-content/*/themes/*/
+!wp-content/*/themes/*/wpstarcitytheme/
+!wp-content/*/themes/*/wpstarcitytheme/*
+!wp-content/*/themes/*/wpstarcitytheme/*/*
+!wp-content/*/themes/*/wpstarcitytheme/*/*/*
+!wp-content/*/themes/*/wpstarcitytheme/*/*/*/*
+!wp-content/*/themes/*/wpstarcitytheme/*/*/*/*/*
+
